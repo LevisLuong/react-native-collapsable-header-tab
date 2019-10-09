@@ -1,3 +1,4 @@
+Add threshold loadmore with 20% percent height
 
 ## Sample usage
 ```javascript
