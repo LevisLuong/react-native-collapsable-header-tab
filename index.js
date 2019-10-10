@@ -345,7 +345,7 @@ const ScrollableTabView = createReactClass({
     }) => {
       return (
         layoutMeasurement.height + contentOffset.y >=
-        (contentSize.height - contentSize.height * 0.2)
+        (contentSize.height - contentSize.height * 0.4)
       );
     };
 
